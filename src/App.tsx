@@ -75,7 +75,7 @@ const INITIAL_DATA: ProfileData = {
   bloodType: "B型",
   birthday: "2007-07-03",
   email: "a111182126@nkust.edu.tw",
-  avatar: "/src/assets/images/regenerated_image_1777820752070.jpg", // 使用上傳的香蕉裝照片
+  avatar: "https://www.image2url.com/r2/default/images/1777826761305-37dc44aa-9ed3-4aba-834f-a15b2863c732.jpg", // 更新頭像圖片
   socials: {
     linkedin: "#",
     instagram: "#",
@@ -124,7 +124,7 @@ const INITIAL_DATA: ProfileData = {
   ],
   aiWork: {
     title: "AI 創意公仔：香蕉星人 (Banana Mood)",
-    image: "/src/assets/images/regenerated_image_1777824255611.png",
+    image: "https://www.image2url.com/r2/default/images/1777826900973-81e6446a-138f-4299-a1f9-e5fadfa72b3f.png",
     description: "這款 'Banana Mood' 公仔結合了超寫實渲染技術與趣味香蕉服飾設計。它代表了一種在嚴謹生活中的幽默感，也象徵著我對於 AI 數位建模與 3D 創意展現的熱忱。"
   },
   videoUrl: "https://www.youtube.com/embed/rEx9V1p4-gA"
